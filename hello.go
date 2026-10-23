@@ -25,7 +25,6 @@ func main() {
 			fmt.Println("Não conheço este comando")
 			os.Exit(-1)
 		}
-
 	}
 }
 
